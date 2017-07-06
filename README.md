@@ -1,2 +1,2 @@
-# carousel
-simple images carousel
+# Carousel
+simple carousel for images
